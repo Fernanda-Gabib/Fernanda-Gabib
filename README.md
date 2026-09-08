@@ -1,7 +1,6 @@
 # Olá! Eu sou a Fernanda 👋
 
-- Estudante de Engenharia de Software  
-- Explorando o mundo do desenvolvimento de software  
+- Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) 
 - Atualmente aprendendo e aprimorando meus conhecimentos em tecnologia  
 - Em busca da minha primeira oportunidade de estágio
 
