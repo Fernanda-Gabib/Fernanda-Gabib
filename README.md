@@ -1,11 +1,11 @@
 # Olá! Eu sou a Fernanda 👋
 
-⚫Estudante de Engenharia de Software  
-⚫Explorando o mundo do desenvolvimento de software  
-⚫Atualmente aprendendo e aprimorando meus conhecimentos em tecnologia  
-⚫Em busca da minha primeira oportunidade de estágio
+- Estudante de Engenharia de Software  
+- Explorando o mundo do desenvolvimento de software  
+- Atualmente aprendendo e aprimorando meus conhecimentos em tecnologia  
+- Em busca da minha primeira oportunidade de estágio
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante do **2º semestre de Engenharia de Software** e estou construindo minha trajetória na área de tecnologia. Tenho interesse em desenvolvimento de software e busco constantemente transformar os conhecimentos adquiridos na graduação em prática.
 
@@ -13,7 +13,7 @@ Sou uma pessoa dedicada, curiosa e com vontade de aprender. Gosto de conhecer no
 
 Acredito que cada novo conhecimento é uma oportunidade de evoluir e, por isso, estou sempre buscando aprender e colocar em prática o que estudo. 
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Ferramentas
 
@@ -27,26 +27,26 @@ Acredito que cada novo conhecimento é uma oportunidade de evoluir e, por isso, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📚 Conhecimentos
+## Conhecimentos
 
 -  Métodos Ágeis
 -  CBL (Challenge Based Learning)
 -  UX/UI
 
-## 🌱 Atualmente aprendendo
+## Atualmente aprendendo
 
 -  Lógica de Programação
 -  Banco de Dados
 -  Linguagem C
 -  Sistemas Computacionais
 
-## 🎯 Objetivos
+## Objetivos
 
 Busco minha primeira oportunidade de **estágio na área de tecnologia**, onde possa aplicar os conhecimentos adquiridos na graduação, desenvolver experiência prática e aprender com profissionais da área.
 
 Meu objetivo é continuar evoluindo como profissional, contribuir com projetos e transformar desafios em oportunidades de aprendizado.
 
-## 📫 Contato
+## Contato
 
 <a href="https://linkedin.com/in/fernanda-braga-dev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
