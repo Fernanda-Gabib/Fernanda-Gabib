@@ -1,9 +1,9 @@
 # Olá! Eu sou a Fernanda 👋
 
-🎓 Estudante de Engenharia de Software  
-💻 Explorando o mundo do desenvolvimento de software  
-🌱 Atualmente aprendendo e aprimorando meus conhecimentos em tecnologia  
-🎯 Em busca da minha primeira oportunidade de estágio
+⚫Estudante de Engenharia de Software  
+⚫Explorando o mundo do desenvolvimento de software  
+⚫Atualmente aprendendo e aprimorando meus conhecimentos em tecnologia  
+⚫Em busca da minha primeira oportunidade de estágio
 
 ## 👩‍💻 Sobre mim
 
@@ -29,16 +29,16 @@ Acredito que cada novo conhecimento é uma oportunidade de evoluir e, por isso, 
 
 ## 📚 Conhecimentos
 
-- 🔄 Métodos Ágeis
-- 💡 CBL (Challenge Based Learning)
-- 🎨 UX/UI
+-  Métodos Ágeis
+-  CBL (Challenge Based Learning)
+-  UX/UI
 
 ## 🌱 Atualmente aprendendo
 
-- 🧠 Lógica de Programação
-- 🗄️ Banco de Dados
-- 💻 Linguagem C
-- 🖥️ Sistemas Computacionais
+-  Lógica de Programação
+-  Banco de Dados
+-  Linguagem C
+-  Sistemas Computacionais
 
 ## 🎯 Objetivos
 
