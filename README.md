@@ -1,4 +1,4 @@
-# Olá! Eu sou a Fernanda 
+# Olá! Eu sou a Fernanda!
 
 - Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) 
 - Atualmente evoluindo na área de tecnologia
