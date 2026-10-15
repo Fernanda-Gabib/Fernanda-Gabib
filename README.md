@@ -1,14 +1,14 @@
-# Olá! Eu sou a Fernanda 👋
+# Olá! Eu sou a Fernanda 
 
 - Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) 
-- Atualmente aprendendo e aprimorando meus conhecimentos em tecnologia  
-- Em busca da minha primeira oportunidade de estágio
+- Atualmente evoluindo na área de tecnologia
+- Interessada em oportunidades profissionais para colocar em prática o conhecimento adquirido
 
 ## Sobre mim
 
-Sou estudante do **2º semestre de Engenharia de Software** e estou construindo minha trajetória na área de tecnologia. Tenho interesse em desenvolvimento de software e busco constantemente transformar os conhecimentos adquiridos na graduação em prática.
+Sou estudante do **2º semestre de Engenharia de Software** e estou construindo minha trajetória na área de tecnologia. Tenho interesse em desenvolvimento de software e em aplicar em projetos reais de aprendizagem todo o conhecimento obtido na minha graduação.
 
-Sou uma pessoa dedicada, curiosa e com vontade de aprender. Gosto de conhecer novas tecnologias, desenvolver minhas habilidades e enfrentar desafios que contribuam para o meu crescimento acadêmico e profissional.
+Gosto de conhecer novas tecnologias, desenvolver minhas habilidades e enfrentar desafios que contribuam para o meu crescimento acadêmico e profissional.
 
 Acredito que cada novo conhecimento é uma oportunidade de evoluir e, por isso, estou sempre buscando aprender e colocar em prática o que estudo. 
 
